@@ -299,8 +299,6 @@ def Screen(command):
 
 		except:
 			pass
-	else:
-		print(type(command.chat.id))
 
 
 # Takes a photo from a webcam
